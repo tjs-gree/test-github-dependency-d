@@ -135,6 +135,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "me.tjs.test-github-dependency-d": {
+      "version": "file:TestLibD",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

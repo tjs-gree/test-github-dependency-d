@@ -1,0 +1,11 @@
+{
+  "name": "me.tjs.test-github-dependency-d",
+  "displayName": "TestGithubDependencyD",
+  "author": {
+    "name": "TJS",
+    "url": "https://github.com/tjs-gree"
+  },
+  "version": "0.0.1",
+  "unity": "2022.2",
+  "description": "Test"
+}
